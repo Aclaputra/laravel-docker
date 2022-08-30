@@ -1,3 +1,3 @@
-# Travellist - Laravel Demo App
+# laravel docker
 
-This is a Laravel 6 demo application to support our Laravel guides.
+dockerizing basic laravel, mysql, nginx.
